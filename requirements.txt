@@ -32,7 +32,6 @@ PyYAML==3.11
 repoze.lru==0.6
 Routes==2.2
 six==1.10.0
-uTidylib==0.2
 vboxapi==1.0
 virtualenv==16.3.0
 WebOb==1.5.1
